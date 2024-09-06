@@ -1,0 +1,112 @@
+[
+    {
+        "id": "1725587416114",
+        "date": "2024-09-06",
+        "location": "Wuxi",
+        "purpose": "Taxi",
+        "amount": 30.0,
+        "currency": "CNY",
+        "exchange_rate": 22.18,
+        "photo_url": ""
+    },
+    {
+        "id": "1725587427978",
+        "date": "2024-09-04",
+        "location": "Nagoya",
+        "purpose": "Parking",
+        "amount": 900.0,
+        "currency": "JPY",
+        "exchange_rate": 1.0,
+        "photo_url": ""
+    },
+    {
+        "id": "1725589022979",
+        "date": "2024-09-03",
+        "location": "Wuxi",
+        "purpose": "Dinner",
+        "amount": 200.0,
+        "currency": "CNY",
+        "exchange_rate": 22.18,
+        "photo_url": ""
+    },
+    {
+        "id": "1725588655932",
+        "date": "2024-09-04",
+        "location": "Yantai",
+        "purpose": "Taxi",
+        "amount": 150.0,
+        "currency": "CNY",
+        "exchange_rate": 22.18,
+        "photo_url": ""
+    },
+    {
+        "id": "1725588923201",
+        "date": "2024-09-09",
+        "location": "Yantai",
+        "purpose": "Taxi",
+        "amount": 50.0,
+        "currency": "CNY",
+        "exchange_rate": 22.18,
+        "photo_url": ""
+    },
+    {
+        "id": "1725589640465",
+        "date": "2024-09-12",
+        "location": "Wuxi",
+        "purpose": "Dinner",
+        "amount": 130.0,
+        "currency": "CNY",
+        "exchange_rate": 22.18,
+        "photo_url": ""
+    },
+    {
+        "id": "1725590253582",
+        "date": "2024-08-28",
+        "location": "Nagoya",
+        "purpose": "Parking",
+        "amount": 600.0,
+        "currency": "JPY",
+        "exchange_rate": 1.0,
+        "photo_url": ""
+    },
+    {
+        "id": "1725590346670",
+        "date": "2023-11-15",
+        "location": "Nagoya",
+        "purpose": "Taxi",
+        "amount": 600.0,
+        "currency": "JPY",
+        "exchange_rate": 1.0,
+        "photo_url": ""
+    },
+    {
+        "id": "1725597399087",
+        "date": "2024-08-14",
+        "location": "Wuxi",
+        "purpose": "Lunch",
+        "amount": 100.0,
+        "currency": "CNY",
+        "exchange_rate": 22.81,
+        "photo_url": ""
+    },
+    {
+        "id": "1725597939064",
+        "date": "2023-11-19",
+        "location": "Nagoya",
+        "purpose": "Lunch",
+        "amount": 2000.0,
+        "currency": "JPY",
+        "exchange_rate": 1.0,
+        "photo_url": ""
+    },
+    {
+        "id": "1725598611235",
+        "date": "2024-10-08",
+        "location": "Nagoya",
+        "purpose": "Parking",
+        "amount": 900.0,
+        "currency": "JPY",
+        "exchange_rate": 1.0,
+        "photo_url": ""
+    }
+]
